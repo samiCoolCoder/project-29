@@ -28,9 +28,9 @@ function setup(){
  //box7=new box(750,200);
  //box8=new box(750,150);
  box9=new box(700,300);
- box10=new box(1000,250);
- box11=new box(1000,200);
- box12=new box(1000,150);
+ //box10=new box(1000,250);
+ //box11=new box(1000,200);
+ //box12=new box(1000,150);
  bob1=new bob(600,300);
  chain1=new chain(bob1.body,{x:600,y:100});
   
@@ -52,9 +52,9 @@ function draw(){
    // box7.display()
    // box8.display()
     box9.display()
-    box10.display()
-    box11.display()
-    box12.display()
+  //  box10.display()
+ //   box11.display()
+   // box12.display()
    bob1.display()
   chain1.display()
  
